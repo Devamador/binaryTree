@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527725996 source:c:\users\rodrigo\documents\faculdade\estrutura de dados\binarytree\binarytree\main.c
+	"library.h"
+
+1527725903 c:\users\rodrigo\documents\faculdade\estrutura de dados\binarytree\binarytree\library.h
+	<stdlib.h>
+	<stdio.h>
+
